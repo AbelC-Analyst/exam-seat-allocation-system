@@ -172,8 +172,4 @@ For questions or collaboration opportunities:
 
 <div align="center">
 
-**Made with 💙 for academic learning**
 
-⭐ Star this repo if you found it helpful!
-
-</div>
